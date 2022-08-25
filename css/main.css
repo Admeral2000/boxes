@@ -1,7 +1,15 @@
-div{
-  margin:170px auto 0;
+div {
+  margin: 170px auto 0;
   width: 150px;
   height: 150px;
   background-color: aqua;
-  box-shadow: -160px -160px rgb(248, 20, 20),0px -160px rgb(123, 248, 20),160px -160px rgb(248, 225, 20),160px 0px rgb(20, 81, 248),160px 160px rgba(240, 224, 132, 0.856),0px 160px rgb(248, 20, 161),-160px 160px rgba(8, 153, 20, 0.788),-160px 0px rgb(158, 39, 39);
+  box-shadow: -160px -160px rgb(248, 20, 20), 0px -160px rgb(123, 248, 20),
+    160px -160px rgb(248, 225, 20), 160px 0px rgb(20, 81, 248),
+    160px 160px rgba(240, 224, 132, 0.856), 0px 160px rgb(248, 20, 161),
+    -160px 160px rgba(8, 153, 20, 0.788), -160px 0px rgb(158, 39, 39);
+}
+.title {
+  text-align: center;
+  font-size: 48px;
+  margin-top: 200px;
 }
